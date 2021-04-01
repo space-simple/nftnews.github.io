@@ -60,10 +60,12 @@ display: inline-block;
 }
 p, #space-simple
 {
+  text-align: center;
   color:white;
 }
 p > img
 {
+  text-align: center;
   display: flex;
   min-width: 20%;
   margin-left: auto;
