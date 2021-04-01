@@ -84,11 +84,11 @@ color: white;
 }
 .twitter
 {
-   height:48px;
-   width:48px;
+   max-height:48px;
+   max-width:48px;
 }
 .foundation
 {
- height: 15px;
-   width: 50px;
+ max-height: 15px;
+   max-width: 50px;
 }
