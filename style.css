@@ -73,6 +73,11 @@ p > img
   margin-left: auto;
   margin-right: auto;
 }
+#space-simple
+{
+  text-align: center;
+  color:white;
+}
 #simple_back{
 color: white;
 }
