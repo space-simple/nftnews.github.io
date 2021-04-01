@@ -27,6 +27,8 @@ img
 h1#fool
 {
 color: white;
+display: flex;
+flex-wrap: wrap;
 font-size: 105px;
 font-family: "Courier New";
 }
