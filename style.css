@@ -67,9 +67,11 @@ p, #space-simple
   text-align: center;
   color:white;
 }
-p > img
+#space-simple > img
 {
   text-align: center;
+   width: auto;
+   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
