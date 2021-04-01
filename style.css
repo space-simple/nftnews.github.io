@@ -27,6 +27,7 @@ img
 h1#fool
 {
 color: white;
+text-align: center;
 display: flex;
 flex-wrap: wrap;
 font-size: 105px;
