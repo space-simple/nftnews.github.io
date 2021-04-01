@@ -6,7 +6,6 @@ text-align: center;
 a, a:visited
 {
 color: black;
-text-align: center;
 font-size: 40px;
 -webkit-text-stroke: 2px white;
 }
