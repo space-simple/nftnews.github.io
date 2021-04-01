@@ -14,6 +14,7 @@ text-decoration: none;
 .container
 {
 display: flex;
+justify-content: center;
 width: 90%;
 }
 img
@@ -30,6 +31,7 @@ h1#fool
 {
 color: white;
 text-align: center;
+justify-content: center;
 display: flex;
 flex-wrap: wrap;
 font-size: 105px;
