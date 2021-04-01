@@ -82,12 +82,12 @@ p, #space-simple
 #simple_back{
 color: white;
 }
-#space-simple > .twitter
+#space-simple > img.twitter
 {
    max-height:48px;
    max-width:48px;
 }
-#space-simple > .foundation
+#space-simple > img.foundation
 {
  max-height: 15px;
    max-width: 50px;
