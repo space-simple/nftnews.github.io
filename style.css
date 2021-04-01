@@ -1,0 +1,10 @@
+body
+{
+background-color:black;
+}
+a, a:visited
+{
+color: black;
+font-size: 40px;
+-webkit-text-stroke: 2px white;
+}
