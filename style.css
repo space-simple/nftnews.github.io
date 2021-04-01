@@ -61,6 +61,7 @@ font-family: "Courier New";
 text-decoration: none;
 -webkit-text-stroke: 1px white;
 }
+
 p, #space-simple
 {
   text-align: center;
@@ -77,7 +78,7 @@ p > img
 #space-simple
 {
   text-align: center;
-  font-size: 25px;
+  font-size: 15px;
   color:white;
 }
 #simple_back{
