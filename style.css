@@ -6,8 +6,9 @@ text-align: center;
 a, a:visited
 {
 color: black;
-font-size: 40px;
--webkit-text-stroke: 2px white;
+font-size: 45px;
+font-family: "Courier New";
+-webkit-text-stroke: 1px white;
 }
 
 img
